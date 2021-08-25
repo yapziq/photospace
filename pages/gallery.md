@@ -4,8 +4,9 @@ title: Gallery
 <!-- subtitle:  -->
 permalink: /gallery/
 gallery_path: "assets/img/gallery"
+feature-img: "assets/img/feature-img/header_gallery.jpg"
 tags: [Page]
-hide_title: true
+<!-- hide_title: true -->
 ---
 
 
